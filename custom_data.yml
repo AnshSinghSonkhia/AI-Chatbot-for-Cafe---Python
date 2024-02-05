@@ -1,8 +1,27 @@
-- - "What types of coffee do you offer?"
-  - "We offer a variety of coffees, including:\n- Espresso\n- Cappuccino\n- Latte\n- Americano\n- Mocha\n- Cold Brew\n- Flat White"
+# Coffee & Beverages
+- - question: "What's your specialty coffee?"
+  - response: "Our specialty coffee is the Kulhad Coffee, which is an Indian special coffee brewed in traditional kulhads."
 
-- - "What's your specialty coffee?"
-  - "Our specialty coffee is the Kulhad Coffee, which is an Indian special coffee brewed in traditional kulhads."
+- - question: "What are your opening hours?"
+  - response: "Our cafe is open seven days a week. Here are our opening hours:\n\nMonday: 8:00 AM - 6:00 PM\nTuesday: 8:00 AM - 6:00 PM\nWednesday: 8:00 AM - 6:00 PM\nThursday: 8:00 AM - 6:00 PM\nFriday: 8:00 AM - 8:00 PM\nSaturday: 9:00 AM - 8:00 PM\nSunday: 9:00 AM - 6:00 PM"
 
-- - "What are your opening hours?"
-  - "Our cafe is open seven days a week. Here are our opening hours:\n\nMonday: 8:00 AM - 6:00 PM\nTuesday: 8:00 AM - 6:00 PM\nWednesday: 8:00 AM - 6:00 PM\nThursday: 8:00 AM - 6:00 PM\nFriday: 8:00 AM - 8:00 PM\nSaturday: 9:00 AM - 8:00 PM\nSunday: 9:00 AM - 6:00 PM"
+- - question: "What types of coffee do you offer?"
+  - response: "We offer a variety of coffees, including:\n- Espresso\n- Cappuccino\n- Latte\n- Americano\n- Mocha\n- Cold Brew\n- Flat White\n- And more! We also have exciting seasonal coffee creations, so be sure to ask our barista for recommendations."
+
+- - question: "What are your specialty drinks?"
+  - response: "Our unique offerings include:\n- Fire Sharbat: A delicious blend of Fire & Sharbat.\n- Lava Ice Tea: Perfect for a refreshing taste.\n- Lava Coffee: Enjoy the flavors of the season with this limited-time creation.\n- We also have handcrafted smoothies and non-coffee options to cater to various preferences."
+
+# Food & Snacks
+- - question: "What kind of food do you have?"
+  - response: "We offer a delectable selection of:\n- Pastries: Croissants, muffins, cookies, and more baked fresh daily.\n- Sandwiches: From classic favorites to vegetarian and healthy options.\n- Salads: Fresh and flavorful salads made with seasonal ingredients.\n- Snacks: We have sweet and savory snacks to satisfy your cravings.\n- Fire Lava Cookies"
+
+# Cafe Information
+- - question: "Where are you located?"
+  - response: "We're conveniently located at Sonkhia Mall in Bhopal, Madhya Pradesh. For detailed directions, please visit our website or call us."
+- - question: "Do you have Wi-Fi?"
+  - response: "Yes, we offer free Wi-Fi for our guests. Enjoy a cup of Lava Coffee and stay connected during your visit."
+- - question: "What kind of seating do you have?"
+  - response: "We have comfortable seating options to suit your needs, whether you prefer a cozy indoor atmosphere, a relaxing outdoor patio, or a scenic rooftop experience. We even have poolside seating available during certain times!"
+- - question: "Do you have any special events or features?"
+  - response: "We regularly host exciting events and offer unique features. For the latest updates, please visit our website or contact us directly."
+
