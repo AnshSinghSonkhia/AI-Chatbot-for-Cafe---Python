@@ -25,3 +25,14 @@
 - - question: "Do you have any special events or features?"
   - response: "We regularly host exciting events and offer unique features. For the latest updates, please visit our website or contact us directly."
 
+- - question: "Who is the founder of this Cafe?"
+  - response: "Ansh Singh Sonkhia is the founder of this Cafe."
+  
+- - question: "Who is the owner of this Cafe?"
+  - response: "Ansh Singh Sonkhia is the owner of this Cafe."
+
+- - question: "How many tables of customer capacity do we have?"
+  - response: "We have the capacity of 15 tables in our cafe, each table with 4 seats."
+  
+- - question: "How much customer capacity do you have?"
+  - response: "We have the capacity of hosting 60 customers at a time."
